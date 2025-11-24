@@ -1,0 +1,6 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": "minecraft:stripped_birch_log",
+    "result": "minecraft:birch_sign",
+    "count": 2
+}

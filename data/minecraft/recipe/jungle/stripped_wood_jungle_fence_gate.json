@@ -1,0 +1,6 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": "minecraft:stripped_jungle_wood",
+    "result": "minecraft:jungle_fence_gate",
+    "count": 1
+}

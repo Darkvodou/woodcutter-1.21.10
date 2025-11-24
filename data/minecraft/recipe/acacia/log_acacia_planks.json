@@ -1,0 +1,6 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": "minecraft:acacia_log",
+    "result": "minecraft:acacia_planks",
+    "count": 4
+}

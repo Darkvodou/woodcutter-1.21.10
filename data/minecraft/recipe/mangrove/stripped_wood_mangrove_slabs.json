@@ -1,0 +1,6 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": "minecraft:stripped_mangrove_wood",
+    "result": "minecraft:mangrove_slab",
+    "count": 8
+}

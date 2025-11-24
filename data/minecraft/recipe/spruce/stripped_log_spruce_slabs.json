@@ -1,0 +1,6 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": "minecraft:stripped_spruce_log",
+    "result": "minecraft:spruce_slab",
+    "count": 8
+}

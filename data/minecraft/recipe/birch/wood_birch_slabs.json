@@ -1,0 +1,6 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": "minecraft:birch_wood",
+    "result": "minecraft:birch_slab",
+    "count": 8
+}

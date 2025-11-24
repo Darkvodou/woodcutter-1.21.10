@@ -1,0 +1,6 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": "minecraft:warped_stem",
+    "result": "minecraft:warped_fence_gate",
+    "count": 1
+}

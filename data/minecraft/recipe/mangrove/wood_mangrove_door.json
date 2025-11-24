@@ -1,0 +1,6 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": "minecraft:mangrove_wood",
+    "result": "minecraft:mangrove_door",
+    "count": 2
+}
