@@ -1,6 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": "minecraft:stripped_cherry_wood",
-    "result": "minecraft:cherry_sign",
-    "count": 2
-}

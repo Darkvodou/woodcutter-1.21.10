@@ -1,6 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": "minecraft:warped_planks",
-    "result": "minecraft:warped_stairs",
-    "count": 1
-}

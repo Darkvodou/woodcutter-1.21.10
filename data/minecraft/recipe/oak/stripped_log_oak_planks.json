@@ -1,6 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": "minecraft:stripped_oak_log",
-    "result": "minecraft:oak_planks",
-    "count": 4
-}

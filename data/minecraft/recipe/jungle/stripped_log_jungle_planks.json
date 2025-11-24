@@ -1,6 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": "minecraft:stripped_jungle_log",
-    "result": "minecraft:jungle_planks",
-    "count": 4
-}

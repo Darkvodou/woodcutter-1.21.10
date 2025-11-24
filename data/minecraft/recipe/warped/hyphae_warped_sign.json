@@ -1,6 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": "minecraft:warped_hyphae",
-    "result": "minecraft:warped_sign",
-    "count": 2
-}
